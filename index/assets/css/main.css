@@ -151,6 +151,11 @@ h2 {
 
 h3 {
   font-size: 1.25em; }
+  
+h3 strong{
+  color: #7f888f;
+  font-size: 0.8em; 
+  }
 
 h4 {
   font-size: 1.1em; }
@@ -2137,7 +2142,7 @@ button,
     flex-shrink: 0;
     display: block;
     margin: 0 0 2em 4em;
-    width: 50%; }
+    width: 75%; }
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
